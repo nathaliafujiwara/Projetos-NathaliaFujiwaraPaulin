@@ -1,3 +1,9 @@
   No meu ensino médio, eu desenvolvi um projeto de Iniciação Científica, vinculado à UFPR, especificamente ao departamento de Engenharia Civil.
-Me foi pedido para criar um protótipo de um equipamento para ler o potencial de corrosão em estruturas de concreto armado e que pudesse enviar
-os dados coletados para o usuário. 
+Me foi pedido para criar um protótipo de um equipamento para ler o potencial de corrosão em estruturas de concreto armado, seguindo a norma 
+ASTM C876, e que pudesse enviar os dados coletados para o usuário. Para isso, eu utilizei um Arduíno UNO, com o auxílio de um eletrdo de 
+referência de cobre/sulfeto de cobre, para ler a pequena tensão contínua gerada e interpretar a chance de corrosão da estrutura. A leitura
+é mostrada em um display de LCD e é então enviada serialmente até um módulo Bluetooth e é recebida no celular do usuário, através de um 
+monitor serial. No final do projeto, eu tentei criar um aplicativo próprio usando a linguagem Dart para receber essas informações, porém, 
+como eu não tinha conhecimentos o suficiente para isso e estava no final do período do projeto, eu não pude implementar essa ideia (que foi 
+passada para um grupo de alunos do curso de Informática desenvolver como um projeto final).
+  Eu tive que realizar diversas pesquisas e testes até chegar em um resutado funcional, que eu fui documentando.
