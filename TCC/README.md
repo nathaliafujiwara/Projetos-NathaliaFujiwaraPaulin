@@ -8,6 +8,6 @@ Para isso, utilizamos o microcontrolador PIC18F4550, que já era utilizado nas a
 
 Além do desenvolvimento da parte física do projeto, também tivemos que escrever um relatório e apresentá-lo para uma banca de professores de matérias técnicas. Recebemos diversos feedbacks sobre nosso projeto, que nos ajudaram a enxergar os pontos fortes e fracos de nossa solução. 
 
-Esse trabalho exigiu um trabalho em equipe muito intenso e comunicação eficiente, tanto dentro do grupo quanto com a sala, o que foi um grande desafio. No final, nosso módulo funcionou perfeitamente e nosso esforço e trabalho foi reconhecido pelos professores. Porém, ao juntarmos todos os módulos, o processo não funcionou, pois o motor utilizado pelo grupo de atuadores queimou durante os testes finais, pouco antes das apresentações.
+Esse trabalho exigiu um trabalho em equipe muito intenso e comunicação eficiente, tanto dentro do grupo quanto com as outras equipes, o que foi um grande desafio. No final, nosso módulo funcionou perfeitamente e nosso esforço e trabalho foram reconhecidos pelos professores. Porém, ao juntarmos todos os módulos, o processo não funcionou, pois o motor utilizado pelo grupo de atuadores queimou durante os testes finais, pouco antes das apresentações.
 
-Apesar de não termos conseguido ver o processo completo funcionando, fiquei muito satisfeita com o resultado do nosso trabalho e com tudo o que aprendemos durante o desenvolvimento do projeto.
+Apesar de não termos conseguido ver o sistema completo funcionando, fiquei muito satisfeita com o resultado do nosso trabalho e com tudo o que aprendemos durante o desenvolvimento do projeto.
