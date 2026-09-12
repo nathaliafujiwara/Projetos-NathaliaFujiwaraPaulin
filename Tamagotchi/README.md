@@ -1,7 +1,6 @@
 # Tamagotchi
 	
-	Como projeto final da matéria de Eletrônica Digital (no IFPR), a turma foi dividida em duplas e trios para criar uma simulação ou
-protótipo físico (para os trios) de um equipamento utilizando, principalmente, os aprendizados da matéria. Eu e minha dupla, minha irmã 
+	Como projeto final da matéria de Eletrônica Digital (no IFPR), a turma foi dividida em duplas e trios para criar uma simulação ou protótipo físico (para os trios) de um equipamento utilizando, principalmente, os aprendizados da matéria. Eu e minha dupla, minha irmã 
 gêmea, decidimos desenvolver uma simulação de um bichinho virtual, nos baseando no Tamagotchi, da Bandai Namco. Para isso, usamos 
 principalmente portas lógicas e Flip-Flops, através do programa Logisim versão 2.7.1. Nós apresentamos o projeto para a turma e também 
 escrevemos um relatório detalhando o processo e funcionamento do nosso pet virtual.
