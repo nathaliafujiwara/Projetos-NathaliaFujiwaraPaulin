@@ -1,8 +1,11 @@
+# Tamagotchi
+	
 	Como projeto final da matéria de Eletrônica Digital (no IFPR), a turma foi dividida em duplas e trios para criar uma simulação ou
 protótipo físico (para os trios) de um equipamento utilizando, principalmente, os aprendizados da matéria. Eu e minha dupla, minha irmã 
 gêmea, decidimos desenvolver uma simulação de um bichinho virtual, nos baseando no Tamagotchi, da Bandai Namco. Para isso, usamos 
 principalmente portas lógicas e Flip-Flops, através do programa Logisim versão 2.7.1. Nós apresentamos o projeto para a turma e também 
 escrevemos um relatório detalhando o processo e funcionamento do nosso pet virtual.
+
 	Em resumo, para cada necessidade do Tamagotchi, fizemos um contador (com durações diferentes) e telas diferentes, codificando a 
 matriz de LEDs até formar uma imagem pixelada (que foi a parte que eu mais gostei de fazer do projeto!). Fizemos telas para representar 
 o estado do bichinho, que mudavam de acordo com o tempo restante do contador e geravam uma "animação", mudando constantemente entre duas 
