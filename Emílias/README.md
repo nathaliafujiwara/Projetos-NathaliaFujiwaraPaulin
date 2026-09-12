@@ -15,6 +15,6 @@ ocorrerá em outubro.
 Campus Ponta Grossa para apresentar um estande no Conecta UTFPR 2026 e aplicar uma oficina lá e também apresentei o Emílias em uma feira de 
 projetos de extensão na acolhida dos calouros 2026/2 da UTFPR Campus Curitiba.
 
-  Eu entrei nesse projeo sabendo que seria muito diferente de tudo o que eu já tinha feito antes e qua fugiria muito da minha zona de 
+  Eu entrei nesse projeto sabendo que seria muito diferente de tudo o que eu já tinha feito antes e qua fugiria muito da minha zona de 
 conforto, como eu sou uma pessoa tímida. Mesmo assim, eu não me arrependo nem um pouco de ter escolhido participar e estou muito feliz com 
 tudo o que fiz lá.
